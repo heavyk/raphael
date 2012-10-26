@@ -4,6 +4,6 @@
   "description": "JavaScript Vector Library",
   "version": "2.1.0",
   "scripts": [
-    "raphael.js"
+    "index.js"
   ]
 }
